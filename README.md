@@ -1,5 +1,7 @@
 ### Hi there 👋
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&&height=400&fontAlign=50&section=header&text=SeungJae&fontSize=80&animation=fadeIn)
+</p>
 <!--
 **sjj995/sjj995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
