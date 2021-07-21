@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="center">🤩 Am I 🤩️️</h3>
 <p align="center">
     <a href="https://www.instagram.com/sj__j995/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-       square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sj__j995/"/></a>
-
+    <br/>
     <a href="https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"/></a>
 </p>
 
