@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&&height=400&fontAlign=50&section=header&text=SeungJae&fontSize=80&animation=fadeIn)
 
 <!--
