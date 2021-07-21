@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp
-<!--     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" /> -->
 </p>
 
 <br/>
@@ -32,9 +31,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">🤩 Am I 🤩️️</h3>
 <p align="center">
-<a href="https://www.instagram.com/sj__j995/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sj__j995/"/></a>
+    <a href="https://www.instagram.com/sj__j995/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-       square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sj__j995/"/></a>
 
-<a href="https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"/></a>
+    <a href="https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"/></a>
 </p>
 
 <!-- 참고한 내용 : https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0 /> -->
