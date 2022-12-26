@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://www.instagram.com/sj__j995/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sj__j995/"/></a>
     <br/>
-    <a href="https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ORACLE-DB-31fc15d0359f4b1597373a79d4ec7923"/></a>
+    <a href="https://velog.io/@sjj995"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@sjj995"/></a>
 </p>
 
 <!-- 참고한 내용 : https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0 /> -->
