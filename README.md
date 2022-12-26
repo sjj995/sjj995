@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ... Data Engineering
-- 👯 I’m looking to collaborate on ... Data Analysis Contest
-- 🤔 I’m looking for help with ... Machine Learning
+- 🌱 I’m currently learning ... Deep Learning
+- 👯 I’m looking to collaborate on ... Deep Learning Optimizer Project
+- 🤔 I’m looking for help with ... Deep Learning
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
